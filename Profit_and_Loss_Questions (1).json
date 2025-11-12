@@ -1,0 +1,4002 @@
+[
+  {
+    "question":"MP \u20b9956, Discount 11%. SP =?",
+    "correct":871,
+    "wrong1":861,
+    "wrong2":851,
+    "wrong3":831,
+    "CBL":3
+  },
+  {
+    "question":"SP \u20b9373, Profit 32%. CP =?",
+    "correct":302,
+    "wrong1":252,
+    "wrong2":292,
+    "wrong3":282,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9352, SP \u20b9261. Loss % =?",
+    "correct":26,
+    "wrong1":16,
+    "wrong2":36,
+    "wrong3":6,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9974, Profit 31%. CP =?",
+    "correct":713,
+    "wrong1":743,
+    "wrong2":773,
+    "wrong3":753,
+    "CBL":2
+  },
+  {
+    "question":"MP \u20b9528, Discount 31%. SP =?",
+    "correct":365,
+    "wrong1":345,
+    "wrong2":355,
+    "wrong3":395,
+    "CBL":1
+  },
+  {
+    "question":"MP \u20b9693, Discount 37%. SP =?",
+    "correct":437,
+    "wrong1":457,
+    "wrong2":427,
+    "wrong3":467,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9561, Loss 31%. SP =?",
+    "correct":408,
+    "wrong1":388,
+    "wrong2":418,
+    "wrong3":398,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9225, SP \u20b9292. Profit % =?",
+    "correct":30,
+    "wrong1":40,
+    "wrong2":50,
+    "wrong3":60,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9233, Profit 16%. SP =?",
+    "correct":280,
+    "wrong1":270,
+    "wrong2":240,
+    "wrong3":290,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9468, Profit 21%. SP =?",
+    "correct":536,
+    "wrong1":546,
+    "wrong2":566,
+    "wrong3":576,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9235, SP \u20b9310. Profit % =?",
+    "correct":42,
+    "wrong1":32,
+    "wrong2":12,
+    "wrong3":62,
+    "CBL":2
+  },
+  {
+    "question":"SP \u20b9868, Loss 19%. CP =?",
+    "correct":1051,
+    "wrong1":1041,
+    "wrong2":1071,
+    "wrong3":1091,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9873, SP \u20b9977. Profit % =?",
+    "correct":32,
+    "wrong1":2,
+    "wrong2":22,
+    "wrong3":12,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9747, Loss 27%. SP =?",
+    "correct":516,
+    "wrong1":546,
+    "wrong2":526,
+    "wrong3":556,
+    "CBL":2
+  },
+  {
+    "question":"SP \u20b9272, Loss 32%. CP =?",
+    "correct":370,
+    "wrong1":390,
+    "wrong2":410,
+    "wrong3":400,
+    "CBL":4
+  },
+  {
+    "question":"SP \u20b9905, Profit 24%. CP =?",
+    "correct":719,
+    "wrong1":729,
+    "wrong2":749,
+    "wrong3":759,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9885, SP \u20b9673. Loss % =?",
+    "correct":4,
+    "wrong1":54,
+    "wrong2":24,
+    "wrong3":44,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9614, SP \u20b9669. Profit % =?",
+    "correct":19,
+    "wrong1":29,
+    "wrong2":9,
+    "wrong3":39,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9695, Loss 33%. SP =?",
+    "correct":436,
+    "wrong1":466,
+    "wrong2":476,
+    "wrong3":486,
+    "CBL":2
+  },
+  {
+    "question":"MP \u20b9720, Discount 7%. SP =?",
+    "correct":640,
+    "wrong1":670,
+    "wrong2":650,
+    "wrong3":680,
+    "CBL":2
+  },
+  {
+    "question":"MP \u20b9317, Discount 30%. SP =?",
+    "correct":232,
+    "wrong1":242,
+    "wrong2":192,
+    "wrong3":222,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9143, SP \u20b9125. Loss % =?",
+    "correct":13,
+    "wrong1":3,
+    "wrong2":43,
+    "wrong3":23,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9323, Profit 18%. SP =?",
+    "correct":401,
+    "wrong1":371,
+    "wrong2":411,
+    "wrong3":381,
+    "CBL":4
+  },
+  {
+    "question":"MP \u20b9407, Discount 20%. SP =?",
+    "correct":356,
+    "wrong1":346,
+    "wrong2":326,
+    "wrong3":316,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9163, Profit 18%. SP =?",
+    "correct":162,
+    "wrong1":202,
+    "wrong2":192,
+    "wrong3":212,
+    "CBL":3
+  },
+  {
+    "question":"SP \u20b9351, Loss 7%. CP =?",
+    "correct":347,
+    "wrong1":377,
+    "wrong2":397,
+    "wrong3":367,
+    "CBL":2
+  },
+  {
+    "question":"SP \u20b9329, Loss 29%. CP =?",
+    "correct":433,
+    "wrong1":453,
+    "wrong2":493,
+    "wrong3":463,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9204, Profit 39%. SP =?",
+    "correct":293,
+    "wrong1":253,
+    "wrong2":263,
+    "wrong3":283,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9388, Profit 12%. SP =?",
+    "correct":434,
+    "wrong1":404,
+    "wrong2":454,
+    "wrong3":414,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9466, Profit 19%. CP =?",
+    "correct":391,
+    "wrong1":361,
+    "wrong2":371,
+    "wrong3":381,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9106, SP \u20b9126. Profit % =?",
+    "correct":9,
+    "wrong1":19,
+    "wrong2":29,
+    "wrong3":39,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9283, Profit 11%. SP =?",
+    "correct":314,
+    "wrong1":344,
+    "wrong2":324,
+    "wrong3":334,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9571, Loss 23%. CP =?",
+    "correct":761,
+    "wrong1":741,
+    "wrong2":771,
+    "wrong3":721,
+    "CBL":2
+  },
+  {
+    "question":"SP \u20b9554, Loss 7%. CP =?",
+    "correct":625,
+    "wrong1":565,
+    "wrong2":575,
+    "wrong3":595,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9269, Profit 34%. SP =?",
+    "correct":360,
+    "wrong1":350,
+    "wrong2":340,
+    "wrong3":390,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9439, SP \u20b9570. Profit % =?",
+    "correct":40,
+    "wrong1":50,
+    "wrong2":30,
+    "wrong3":60,
+    "CBL":3
+  },
+  {
+    "question":"SP \u20b9575, Profit 40%. CP =?",
+    "correct":440,
+    "wrong1":410,
+    "wrong2":380,
+    "wrong3":430,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9358, Loss 27%. SP =?",
+    "correct":282,
+    "wrong1":292,
+    "wrong2":262,
+    "wrong3":252,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9722, Profit 19%. SP =?",
+    "correct":859,
+    "wrong1":889,
+    "wrong2":839,
+    "wrong3":879,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9524, SP \u20b9425. Loss % =?",
+    "correct":9,
+    "wrong1":19,
+    "wrong2":29,
+    "wrong3":49,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9363, Profit 22%. SP =?",
+    "correct":432,
+    "wrong1":412,
+    "wrong2":442,
+    "wrong3":462,
+    "CBL":3
+  },
+  {
+    "question":"SP \u20b9400, Loss 24%. CP =?",
+    "correct":536,
+    "wrong1":526,
+    "wrong2":556,
+    "wrong3":516,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9568, Loss 25%. SP =?",
+    "correct":406,
+    "wrong1":396,
+    "wrong2":446,
+    "wrong3":426,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9428, Profit 24%. SP =?",
+    "correct":520,
+    "wrong1":530,
+    "wrong2":540,
+    "wrong3":550,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9764, SP \u20b9977. Profit % =?",
+    "correct":28,
+    "wrong1":8,
+    "wrong2":18,
+    "wrong3":38,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9832, Profit 12%. CP =?",
+    "correct":742,
+    "wrong1":752,
+    "wrong2":722,
+    "wrong3":712,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9309, Profit 21%. SP =?",
+    "correct":393,
+    "wrong1":363,
+    "wrong2":353,
+    "wrong3":373,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9570, Profit 11%. SP =?",
+    "correct":642,
+    "wrong1":612,
+    "wrong2":622,
+    "wrong3":632,
+    "CBL":4
+  },
+  {
+    "question":"SP \u20b9450, Loss 12%. CP =?",
+    "correct":511,
+    "wrong1":531,
+    "wrong2":501,
+    "wrong3":491,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9440, Loss 27%. SP =?",
+    "correct":352,
+    "wrong1":312,
+    "wrong2":322,
+    "wrong3":292,
+    "CBL":3
+  },
+  {
+    "question":"SP \u20b9452, Loss 36%. CP =?",
+    "correct":736,
+    "wrong1":706,
+    "wrong2":676,
+    "wrong3":696,
+    "CBL":2
+  },
+  {
+    "question":"MP \u20b9972, Discount 29%. SP =?",
+    "correct":691,
+    "wrong1":681,
+    "wrong2":661,
+    "wrong3":711,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9775, SP \u20b9930. Profit % =?",
+    "correct":40,
+    "wrong1":20,
+    "wrong2":50,
+    "wrong3":30,
+    "CBL":2
+  },
+  {
+    "question":"SP \u20b9163, Loss 30%. CP =?",
+    "correct":252,
+    "wrong1":222,
+    "wrong2":262,
+    "wrong3":232,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9337, Loss 22%. SP =?",
+    "correct":273,
+    "wrong1":293,
+    "wrong2":263,
+    "wrong3":253,
+    "CBL":3
+  },
+  {
+    "question":"MP \u20b9305, Discount 12%. SP =?",
+    "correct":289,
+    "wrong1":269,
+    "wrong2":249,
+    "wrong3":279,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9275, Profit 11%. SP =?",
+    "correct":305,
+    "wrong1":315,
+    "wrong2":275,
+    "wrong3":285,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9170, SP \u20b9118. Loss % =?",
+    "correct":1,
+    "wrong1":11,
+    "wrong2":31,
+    "wrong3":51,
+    "CBL":3
+  },
+  {
+    "question":"SP \u20b9534, Loss 27%. CP =?",
+    "correct":731,
+    "wrong1":761,
+    "wrong2":741,
+    "wrong3":711,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9463, Loss 37%. CP =?",
+    "correct":734,
+    "wrong1":704,
+    "wrong2":714,
+    "wrong3":764,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9143, SP \u20b995. Loss % =?",
+    "correct":44,
+    "wrong1":4,
+    "wrong2":14,
+    "wrong3":34,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9373, SP \u20b9399. Profit % =?",
+    "correct":17,
+    "wrong1":27,
+    "wrong2":7,
+    "wrong3":37,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9236, SP \u20b9203. Loss % =?",
+    "correct":34,
+    "wrong1":44,
+    "wrong2":4,
+    "wrong3":14,
+    "CBL":4
+  },
+  {
+    "question":"SP \u20b9810, Loss 27%. CP =?",
+    "correct":1109,
+    "wrong1":1089,
+    "wrong2":1129,
+    "wrong3":1139,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9757, SP \u20b9523. Loss % =?",
+    "correct":11,
+    "wrong1":51,
+    "wrong2":31,
+    "wrong3":21,
+    "CBL":3
+  },
+  {
+    "question":"SP \u20b9139, Loss 11%. CP =?",
+    "correct":136,
+    "wrong1":156,
+    "wrong2":186,
+    "wrong3":146,
+    "CBL":2
+  },
+  {
+    "question":"SP \u20b9715, Profit 39%. CP =?",
+    "correct":524,
+    "wrong1":494,
+    "wrong2":514,
+    "wrong3":534,
+    "CBL":3
+  },
+  {
+    "question":"SP \u20b9459, Profit 15%. CP =?",
+    "correct":369,
+    "wrong1":389,
+    "wrong2":429,
+    "wrong3":399,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9675, SP \u20b9769. Profit % =?",
+    "correct":14,
+    "wrong1":24,
+    "wrong2":44,
+    "wrong3":4,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9699, Profit 33%. SP =?",
+    "correct":939,
+    "wrong1":949,
+    "wrong2":929,
+    "wrong3":959,
+    "CBL":3
+  },
+  {
+    "question":"MP \u20b9257, Discount 8%. SP =?",
+    "correct":217,
+    "wrong1":237,
+    "wrong2":267,
+    "wrong3":227,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9185, SP \u20b9234. Profit % =?",
+    "correct":17,
+    "wrong1":37,
+    "wrong2":47,
+    "wrong3":27,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9596, SP \u20b9430. Loss % =?",
+    "correct":8,
+    "wrong1":28,
+    "wrong2":58,
+    "wrong3":18,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9886, SP \u20b9621. Loss % =?",
+    "correct":40,
+    "wrong1":30,
+    "wrong2":50,
+    "wrong3":60,
+    "CBL":2
+  },
+  {
+    "question":"SP \u20b9440, Profit 34%. CP =?",
+    "correct":338,
+    "wrong1":328,
+    "wrong2":348,
+    "wrong3":318,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9192, Profit 18%. SP =?",
+    "correct":216,
+    "wrong1":226,
+    "wrong2":236,
+    "wrong3":246,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9161, Loss 24%. SP =?",
+    "correct":153,
+    "wrong1":123,
+    "wrong2":133,
+    "wrong3":143,
+    "CBL":2
+  },
+  {
+    "question":"MP \u20b9430, Discount 34%. SP =?",
+    "correct":264,
+    "wrong1":314,
+    "wrong2":304,
+    "wrong3":284,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9304, SP \u20b9425. Profit % =?",
+    "correct":20,
+    "wrong1":40,
+    "wrong2":30,
+    "wrong3":60,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9365, SP \u20b9383. Profit % =?",
+    "correct":5,
+    "wrong1":25,
+    "wrong2":35,
+    "wrong3":15,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9251, Profit 36%. CP =?",
+    "correct":184,
+    "wrong1":194,
+    "wrong2":154,
+    "wrong3":214,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9147, Loss 6%. SP =?",
+    "correct":129,
+    "wrong1":149,
+    "wrong2":119,
+    "wrong3":139,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9786, Profit 36%. SP =?",
+    "correct":1088,
+    "wrong1":1098,
+    "wrong2":1078,
+    "wrong3":1068,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9538, Profit 5%. SP =?",
+    "correct":584,
+    "wrong1":594,
+    "wrong2":564,
+    "wrong3":544,
+    "CBL":3
+  },
+  {
+    "question":"SP \u20b9719, Profit 21%. CP =?",
+    "correct":584,
+    "wrong1":624,
+    "wrong2":614,
+    "wrong3":594,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9345, Profit 20%. SP =?",
+    "correct":414,
+    "wrong1":394,
+    "wrong2":444,
+    "wrong3":404,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9280, SP \u20b9238. Loss % =?",
+    "correct":15,
+    "wrong1":45,
+    "wrong2":35,
+    "wrong3":5,
+    "CBL":1
+  },
+  {
+    "question":"MP \u20b9412, Discount 12%. SP =?",
+    "correct":353,
+    "wrong1":363,
+    "wrong2":333,
+    "wrong3":383,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9883, Loss 10%. SP =?",
+    "correct":825,
+    "wrong1":805,
+    "wrong2":795,
+    "wrong3":765,
+    "CBL":3
+  },
+  {
+    "question":"SP \u20b9258, Profit 22%. CP =?",
+    "correct":201,
+    "wrong1":211,
+    "wrong2":221,
+    "wrong3":181,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9392, Profit 13%. SP =?",
+    "correct":442,
+    "wrong1":432,
+    "wrong2":452,
+    "wrong3":412,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9812, SP \u20b9561. Loss % =?",
+    "correct":11,
+    "wrong1":51,
+    "wrong2":31,
+    "wrong3":61,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9842, Profit 16%. SP =?",
+    "correct":986,
+    "wrong1":966,
+    "wrong2":976,
+    "wrong3":1006,
+    "CBL":3
+  },
+  {
+    "question":"SP \u20b9926, Loss 8%. CP =?",
+    "correct":1006,
+    "wrong1":1026,
+    "wrong2":996,
+    "wrong3":1036,
+    "CBL":1
+  },
+  {
+    "question":"MP \u20b9897, Discount 39%. SP =?",
+    "correct":528,
+    "wrong1":568,
+    "wrong2":548,
+    "wrong3":518,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9703, SP \u20b9464. Loss % =?",
+    "correct":34,
+    "wrong1":64,
+    "wrong2":24,
+    "wrong3":54,
+    "CBL":1
+  },
+  {
+    "question":"MP \u20b9963, Discount 19%. SP =?",
+    "correct":771,
+    "wrong1":761,
+    "wrong2":811,
+    "wrong3":781,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9387, SP \u20b9310. Loss % =?",
+    "correct":40,
+    "wrong1":10,
+    "wrong2":50,
+    "wrong3":20,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9556, SP \u20b9650. Profit % =?",
+    "correct":7,
+    "wrong1":37,
+    "wrong2":47,
+    "wrong3":17,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9677, Profit 25%. SP =?",
+    "correct":816,
+    "wrong1":866,
+    "wrong2":846,
+    "wrong3":876,
+    "CBL":3
+  },
+  {
+    "question":"SP \u20b9371, Profit 32%. CP =?",
+    "correct":291,
+    "wrong1":281,
+    "wrong2":301,
+    "wrong3":271,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9378, Loss 15%. SP =?",
+    "correct":352,
+    "wrong1":312,
+    "wrong2":322,
+    "wrong3":332,
+    "CBL":3
+  },
+  {
+    "question":"SP \u20b9768, Loss 33%. CP =?",
+    "correct":1136,
+    "wrong1":1116,
+    "wrong2":1126,
+    "wrong3":1146,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9842, Profit 7%. SP =?",
+    "correct":920,
+    "wrong1":910,
+    "wrong2":870,
+    "wrong3":900,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9686, SP \u20b9522. Loss % =?",
+    "correct":4,
+    "wrong1":54,
+    "wrong2":24,
+    "wrong3":14,
+    "CBL":3
+  },
+  {
+    "question":"MP \u20b9591, Discount 33%. SP =?",
+    "correct":376,
+    "wrong1":386,
+    "wrong2":406,
+    "wrong3":396,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9858, Profit 20%. SP =?",
+    "correct":1059,
+    "wrong1":1019,
+    "wrong2":999,
+    "wrong3":1029,
+    "CBL":4
+  },
+  {
+    "question":"SP \u20b9999, Profit 32%. CP =?",
+    "correct":746,
+    "wrong1":726,
+    "wrong2":756,
+    "wrong3":766,
+    "CBL":3
+  },
+  {
+    "question":"MP \u20b9814, Discount 15%. SP =?",
+    "correct":672,
+    "wrong1":692,
+    "wrong2":722,
+    "wrong3":702,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9429, Profit 29%. SP =?",
+    "correct":523,
+    "wrong1":563,
+    "wrong2":533,
+    "wrong3":553,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9637, Profit 23%. SP =?",
+    "correct":803,
+    "wrong1":813,
+    "wrong2":763,
+    "wrong3":783,
+    "CBL":4
+  },
+  {
+    "question":"SP \u20b9630, Profit 19%. CP =?",
+    "correct":529,
+    "wrong1":539,
+    "wrong2":509,
+    "wrong3":519,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9986, Loss 9%. CP =?",
+    "correct":1073,
+    "wrong1":1093,
+    "wrong2":1063,
+    "wrong3":1083,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9448, SP \u20b9510. Profit % =?",
+    "correct":24,
+    "wrong1":34,
+    "wrong2":44,
+    "wrong3":14,
+    "CBL":4
+  },
+  {
+    "question":"MP \u20b9576, Discount 34%. SP =?",
+    "correct":381,
+    "wrong1":371,
+    "wrong2":351,
+    "wrong3":391,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9206, Profit 31%. CP =?",
+    "correct":177,
+    "wrong1":187,
+    "wrong2":157,
+    "wrong3":127,
+    "CBL":3
+  },
+  {
+    "question":"MP \u20b9789, Discount 6%. SP =?",
+    "correct":752,
+    "wrong1":742,
+    "wrong2":732,
+    "wrong3":712,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9270, SP \u20b9219. Loss % =?",
+    "correct":49,
+    "wrong1":29,
+    "wrong2":9,
+    "wrong3":19,
+    "CBL":4
+  },
+  {
+    "question":"SP \u20b9794, Profit 21%. CP =?",
+    "correct":646,
+    "wrong1":656,
+    "wrong2":676,
+    "wrong3":686,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9258, SP \u20b9181. Loss % =?",
+    "correct":40,
+    "wrong1":50,
+    "wrong2":30,
+    "wrong3":60,
+    "CBL":3
+  },
+  {
+    "question":"SP \u20b9403, Profit 6%. CP =?",
+    "correct":400,
+    "wrong1":380,
+    "wrong2":410,
+    "wrong3":390,
+    "CBL":2
+  },
+  {
+    "question":"MP \u20b9483, Discount 26%. SP =?",
+    "correct":358,
+    "wrong1":388,
+    "wrong2":378,
+    "wrong3":348,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9203, Profit 33%. SP =?",
+    "correct":289,
+    "wrong1":259,
+    "wrong2":269,
+    "wrong3":239,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9661, Profit 9%. SP =?",
+    "correct":690,
+    "wrong1":710,
+    "wrong2":720,
+    "wrong3":750,
+    "CBL":3
+  },
+  {
+    "question":"SP \u20b9462, Loss 33%. CP =?",
+    "correct":659,
+    "wrong1":689,
+    "wrong2":709,
+    "wrong3":719,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9764, SP \u20b9604. Loss % =?",
+    "correct":11,
+    "wrong1":51,
+    "wrong2":31,
+    "wrong3":21,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9712, SP \u20b9946. Profit % =?",
+    "correct":33,
+    "wrong1":43,
+    "wrong2":13,
+    "wrong3":63,
+    "CBL":1
+  },
+  {
+    "question":"MP \u20b9620, Discount 12%. SP =?",
+    "correct":536,
+    "wrong1":556,
+    "wrong2":546,
+    "wrong3":526,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9818, Loss 26%. SP =?",
+    "correct":576,
+    "wrong1":626,
+    "wrong2":606,
+    "wrong3":616,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9622, Loss 32%. SP =?",
+    "correct":423,
+    "wrong1":433,
+    "wrong2":443,
+    "wrong3":413,
+    "CBL":1
+  },
+  {
+    "question":"MP \u20b9767, Discount 23%. SP =?",
+    "correct":561,
+    "wrong1":591,
+    "wrong2":571,
+    "wrong3":581,
+    "CBL":2
+  },
+  {
+    "question":"SP \u20b9683, Profit 34%. CP =?",
+    "correct":509,
+    "wrong1":489,
+    "wrong2":539,
+    "wrong3":519,
+    "CBL":1
+  },
+  {
+    "question":"MP \u20b9449, Discount 5%. SP =?",
+    "correct":417,
+    "wrong1":427,
+    "wrong2":457,
+    "wrong3":407,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9214, SP \u20b9135. Loss % =?",
+    "correct":17,
+    "wrong1":37,
+    "wrong2":27,
+    "wrong3":7,
+    "CBL":2
+  },
+  {
+    "question":"SP \u20b9528, Profit 36%. CP =?",
+    "correct":418,
+    "wrong1":398,
+    "wrong2":388,
+    "wrong3":378,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9322, SP \u20b9216. Loss % =?",
+    "correct":33,
+    "wrong1":53,
+    "wrong2":3,
+    "wrong3":13,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9749, SP \u20b9465. Loss % =?",
+    "correct":8,
+    "wrong1":28,
+    "wrong2":38,
+    "wrong3":68,
+    "CBL":3
+  },
+  {
+    "question":"SP \u20b9525, Profit 16%. CP =?",
+    "correct":452,
+    "wrong1":442,
+    "wrong2":482,
+    "wrong3":422,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9384, SP \u20b9468. Profit % =?",
+    "correct":32,
+    "wrong1":2,
+    "wrong2":22,
+    "wrong3":52,
+    "CBL":3
+  },
+  {
+    "question":"SP \u20b9405, Loss 14%. CP =?",
+    "correct":470,
+    "wrong1":480,
+    "wrong2":450,
+    "wrong3":500,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9375, SP \u20b9338. Loss % =?",
+    "correct":10,
+    "wrong1":40,
+    "wrong2":20,
+    "wrong3":30,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9696, Loss 34%. SP =?",
+    "correct":460,
+    "wrong1":480,
+    "wrong2":490,
+    "wrong3":430,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9438, Loss 30%. CP =?",
+    "correct":625,
+    "wrong1":595,
+    "wrong2":605,
+    "wrong3":655,
+    "CBL":1
+  },
+  {
+    "question":"MP \u20b9541, Discount 38%. SP =?",
+    "correct":326,
+    "wrong1":356,
+    "wrong2":366,
+    "wrong3":336,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9196, Loss 16%. SP =?",
+    "correct":145,
+    "wrong1":165,
+    "wrong2":155,
+    "wrong3":175,
+    "CBL":2
+  },
+  {
+    "question":"MP \u20b9250, Discount 23%. SP =?",
+    "correct":163,
+    "wrong1":173,
+    "wrong2":193,
+    "wrong3":203,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9826, SP \u20b9603. Loss % =?",
+    "correct":57,
+    "wrong1":47,
+    "wrong2":7,
+    "wrong3":27,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9259, SP \u20b9287. Profit % =?",
+    "correct":41,
+    "wrong1":11,
+    "wrong2":21,
+    "wrong3":1,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9201, Profit 35%. SP =?",
+    "correct":281,
+    "wrong1":251,
+    "wrong2":271,
+    "wrong3":291,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9493, SP \u20b9341. Loss % =?",
+    "correct":1,
+    "wrong1":31,
+    "wrong2":11,
+    "wrong3":21,
+    "CBL":2
+  },
+  {
+    "question":"SP \u20b9138, Loss 37%. CP =?",
+    "correct":249,
+    "wrong1":229,
+    "wrong2":199,
+    "wrong3":219,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9390, SP \u20b9507. Profit % =?",
+    "correct":50,
+    "wrong1":10,
+    "wrong2":20,
+    "wrong3":30,
+    "CBL":4
+  },
+  {
+    "question":"MP \u20b9429, Discount 32%. SP =?",
+    "correct":292,
+    "wrong1":282,
+    "wrong2":322,
+    "wrong3":262,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9288, SP \u20b9254. Loss % =?",
+    "correct":32,
+    "wrong1":42,
+    "wrong2":2,
+    "wrong3":12,
+    "CBL":4
+  },
+  {
+    "question":"MP \u20b9438, Discount 39%. SP =?",
+    "correct":248,
+    "wrong1":258,
+    "wrong2":278,
+    "wrong3":268,
+    "CBL":4
+  },
+  {
+    "question":"SP \u20b9744, Profit 18%. CP =?",
+    "correct":630,
+    "wrong1":600,
+    "wrong2":620,
+    "wrong3":640,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9788, Profit 38%. CP =?",
+    "correct":601,
+    "wrong1":571,
+    "wrong2":561,
+    "wrong3":591,
+    "CBL":2
+  },
+  {
+    "question":"MP \u20b9453, Discount 16%. SP =?",
+    "correct":371,
+    "wrong1":381,
+    "wrong2":401,
+    "wrong3":411,
+    "CBL":2
+  },
+  {
+    "question":"MP \u20b9535, Discount 10%. SP =?",
+    "correct":472,
+    "wrong1":512,
+    "wrong2":482,
+    "wrong3":452,
+    "CBL":3
+  },
+  {
+    "question":"MP \u20b9582, Discount 10%. SP =?",
+    "correct":504,
+    "wrong1":554,
+    "wrong2":524,
+    "wrong3":544,
+    "CBL":3
+  },
+  {
+    "question":"SP \u20b9984, Loss 39%. CP =?",
+    "correct":1613,
+    "wrong1":1633,
+    "wrong2":1603,
+    "wrong3":1623,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9234, Profit 19%. SP =?",
+    "correct":298,
+    "wrong1":258,
+    "wrong2":268,
+    "wrong3":278,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9384, Profit 35%. SP =?",
+    "correct":518,
+    "wrong1":488,
+    "wrong2":508,
+    "wrong3":548,
+    "CBL":1
+  },
+  {
+    "question":"MP \u20b9231, Discount 16%. SP =?",
+    "correct":195,
+    "wrong1":225,
+    "wrong2":215,
+    "wrong3":175,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9431, Loss 21%. CP =?",
+    "correct":555,
+    "wrong1":565,
+    "wrong2":575,
+    "wrong3":545,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9269, SP \u20b9287. Profit % =?",
+    "correct":17,
+    "wrong1":7,
+    "wrong2":27,
+    "wrong3":37,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9215, SP \u20b9253. Profit % =?",
+    "correct":48,
+    "wrong1":8,
+    "wrong2":18,
+    "wrong3":28,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9106, SP \u20b964. Loss % =?",
+    "correct":10,
+    "wrong1":40,
+    "wrong2":20,
+    "wrong3":70,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9295, SP \u20b9207. Loss % =?",
+    "correct":40,
+    "wrong1":50,
+    "wrong2":10,
+    "wrong3":30,
+    "CBL":4
+  },
+  {
+    "question":"SP \u20b9264, Loss 5%. CP =?",
+    "correct":297,
+    "wrong1":277,
+    "wrong2":267,
+    "wrong3":307,
+    "CBL":2
+  },
+  {
+    "question":"SP \u20b9357, Loss 12%. CP =?",
+    "correct":405,
+    "wrong1":425,
+    "wrong2":435,
+    "wrong3":375,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9242, Profit 15%. SP =?",
+    "correct":278,
+    "wrong1":248,
+    "wrong2":258,
+    "wrong3":268,
+    "CBL":1
+  },
+  {
+    "question":"MP \u20b9202, Discount 40%. SP =?",
+    "correct":112,
+    "wrong1":132,
+    "wrong2":152,
+    "wrong3":122,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9800, SP \u20b9688. Loss % =?",
+    "correct":14,
+    "wrong1":24,
+    "wrong2":4,
+    "wrong3":44,
+    "CBL":1
+  },
+  {
+    "question":"MP \u20b9813, Discount 9%. SP =?",
+    "correct":730,
+    "wrong1":740,
+    "wrong2":770,
+    "wrong3":750,
+    "CBL":2
+  },
+  {
+    "question":"SP \u20b9554, Loss 16%. CP =?",
+    "correct":689,
+    "wrong1":629,
+    "wrong2":679,
+    "wrong3":659,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9637, SP \u20b9440. Loss % =?",
+    "correct":31,
+    "wrong1":1,
+    "wrong2":11,
+    "wrong3":61,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9855, Loss 10%. SP =?",
+    "correct":770,
+    "wrong1":780,
+    "wrong2":740,
+    "wrong3":750,
+    "CBL":1
+  },
+  {
+    "question":"MP \u20b9287, Discount 15%. SP =?",
+    "correct":264,
+    "wrong1":244,
+    "wrong2":274,
+    "wrong3":254,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9209, Profit 24%. SP =?",
+    "correct":229,
+    "wrong1":259,
+    "wrong2":269,
+    "wrong3":289,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9717, SP \u20b9581. Loss % =?",
+    "correct":49,
+    "wrong1":9,
+    "wrong2":19,
+    "wrong3":39,
+    "CBL":3
+  },
+  {
+    "question":"SP \u20b9174, Profit 24%. CP =?",
+    "correct":160,
+    "wrong1":130,
+    "wrong2":140,
+    "wrong3":110,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9670, Loss 17%. SP =?",
+    "correct":587,
+    "wrong1":557,
+    "wrong2":547,
+    "wrong3":567,
+    "CBL":2
+  },
+  {
+    "question":"MP \u20b9767, Discount 24%. SP =?",
+    "correct":583,
+    "wrong1":553,
+    "wrong2":563,
+    "wrong3":573,
+    "CBL":1
+  },
+  {
+    "question":"MP \u20b9535, Discount 30%. SP =?",
+    "correct":345,
+    "wrong1":375,
+    "wrong2":355,
+    "wrong3":395,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9425, SP \u20b9396. Loss % =?",
+    "correct":17,
+    "wrong1":7,
+    "wrong2":27,
+    "wrong3":37,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9119, Loss 28%. SP =?",
+    "correct":56,
+    "wrong1":66,
+    "wrong2":116,
+    "wrong3":86,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9737, Loss 39%. SP =?",
+    "correct":450,
+    "wrong1":440,
+    "wrong2":460,
+    "wrong3":430,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9230, Loss 12%. SP =?",
+    "correct":233,
+    "wrong1":203,
+    "wrong2":193,
+    "wrong3":173,
+    "CBL":2
+  },
+  {
+    "question":"MP \u20b9852, Discount 31%. SP =?",
+    "correct":618,
+    "wrong1":588,
+    "wrong2":578,
+    "wrong3":598,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9345, Profit 5%. SP =?",
+    "correct":392,
+    "wrong1":352,
+    "wrong2":362,
+    "wrong3":342,
+    "CBL":3
+  },
+  {
+    "question":"MP \u20b9777, Discount 21%. SP =?",
+    "correct":624,
+    "wrong1":644,
+    "wrong2":614,
+    "wrong3":604,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9684, Profit 20%. SP =?",
+    "correct":830,
+    "wrong1":820,
+    "wrong2":850,
+    "wrong3":790,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9768, Profit 31%. SP =?",
+    "correct":1006,
+    "wrong1":976,
+    "wrong2":1026,
+    "wrong3":1036,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9792, Profit 16%. CP =?",
+    "correct":682,
+    "wrong1":712,
+    "wrong2":692,
+    "wrong3":652,
+    "CBL":1
+  },
+  {
+    "question":"MP \u20b9387, Discount 28%. SP =?",
+    "correct":289,
+    "wrong1":279,
+    "wrong2":269,
+    "wrong3":249,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9337, Loss 19%. SP =?",
+    "correct":283,
+    "wrong1":253,
+    "wrong2":243,
+    "wrong3":273,
+    "CBL":4
+  },
+  {
+    "question":"SP \u20b9348, Loss 6%. CP =?",
+    "correct":400,
+    "wrong1":380,
+    "wrong2":340,
+    "wrong3":370,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9699, SP \u20b9469. Loss % =?",
+    "correct":13,
+    "wrong1":33,
+    "wrong2":63,
+    "wrong3":23,
+    "CBL":2
+  },
+  {
+    "question":"MP \u20b9735, Discount 30%. SP =?",
+    "correct":505,
+    "wrong1":515,
+    "wrong2":495,
+    "wrong3":535,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9232, SP \u20b9144. Loss % =?",
+    "correct":48,
+    "wrong1":68,
+    "wrong2":38,
+    "wrong3":28,
+    "CBL":3
+  },
+  {
+    "question":"MP \u20b9236, Discount 37%. SP =?",
+    "correct":149,
+    "wrong1":129,
+    "wrong2":139,
+    "wrong3":159,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9888, Profit 6%. CP =?",
+    "correct":837,
+    "wrong1":817,
+    "wrong2":867,
+    "wrong3":827,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9152, Loss 25%. CP =?",
+    "correct":202,
+    "wrong1":192,
+    "wrong2":232,
+    "wrong3":182,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9693, SP \u20b9734. Profit % =?",
+    "correct":16,
+    "wrong1":26,
+    "wrong2":36,
+    "wrong3":6,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9630, Profit 26%. SP =?",
+    "correct":803,
+    "wrong1":793,
+    "wrong2":763,
+    "wrong3":813,
+    "CBL":2
+  },
+  {
+    "question":"SP \u20b9153, Loss 37%. CP =?",
+    "correct":272,
+    "wrong1":242,
+    "wrong2":222,
+    "wrong3":262,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9672, SP \u20b9873. Profit % =?",
+    "correct":40,
+    "wrong1":30,
+    "wrong2":50,
+    "wrong3":20,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9341, SP \u20b9398. Profit % =?",
+    "correct":17,
+    "wrong1":27,
+    "wrong2":7,
+    "wrong3":47,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9599, SP \u20b9790. Profit % =?",
+    "correct":42,
+    "wrong1":32,
+    "wrong2":12,
+    "wrong3":22,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9662, Profit 23%. SP =?",
+    "correct":794,
+    "wrong1":804,
+    "wrong2":844,
+    "wrong3":814,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9299, Loss 11%. SP =?",
+    "correct":267,
+    "wrong1":277,
+    "wrong2":237,
+    "wrong3":247,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9649, Loss 19%. SP =?",
+    "correct":496,
+    "wrong1":526,
+    "wrong2":506,
+    "wrong3":556,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9280, SP \u20b9330. Profit % =?",
+    "correct":8,
+    "wrong1":28,
+    "wrong2":38,
+    "wrong3":18,
+    "CBL":4
+  },
+  {
+    "question":"MP \u20b9479, Discount 31%. SP =?",
+    "correct":321,
+    "wrong1":311,
+    "wrong2":331,
+    "wrong3":351,
+    "CBL":3
+  },
+  {
+    "question":"SP \u20b9639, Profit 21%. CP =?",
+    "correct":498,
+    "wrong1":528,
+    "wrong2":538,
+    "wrong3":548,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9681, SP \u20b9715. Profit % =?",
+    "correct":25,
+    "wrong1":35,
+    "wrong2":15,
+    "wrong3":5,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9211, SP \u20b9171. Loss % =?",
+    "correct":49,
+    "wrong1":9,
+    "wrong2":19,
+    "wrong3":39,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9567, Profit 7%. SP =?",
+    "correct":616,
+    "wrong1":606,
+    "wrong2":626,
+    "wrong3":586,
+    "CBL":2
+  },
+  {
+    "question":"SP \u20b9371, Loss 39%. CP =?",
+    "correct":608,
+    "wrong1":618,
+    "wrong2":628,
+    "wrong3":588,
+    "CBL":1
+  },
+  {
+    "question":"MP \u20b9533, Discount 36%. SP =?",
+    "correct":312,
+    "wrong1":362,
+    "wrong2":342,
+    "wrong3":372,
+    "CBL":3
+  },
+  {
+    "question":"MP \u20b9917, Discount 28%. SP =?",
+    "correct":681,
+    "wrong1":691,
+    "wrong2":661,
+    "wrong3":651,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9128, Loss 37%. SP =?",
+    "correct":91,
+    "wrong1":101,
+    "wrong2":71,
+    "wrong3":81,
+    "CBL":4
+  },
+  {
+    "question":"MP \u20b9307, Discount 17%. SP =?",
+    "correct":255,
+    "wrong1":225,
+    "wrong2":275,
+    "wrong3":265,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9526, Loss 40%. CP =?",
+    "correct":856,
+    "wrong1":866,
+    "wrong2":896,
+    "wrong3":876,
+    "CBL":4
+  },
+  {
+    "question":"SP \u20b9506, Loss 36%. CP =?",
+    "correct":760,
+    "wrong1":790,
+    "wrong2":770,
+    "wrong3":810,
+    "CBL":2
+  },
+  {
+    "question":"SP \u20b9420, Loss 34%. CP =?",
+    "correct":666,
+    "wrong1":636,
+    "wrong2":646,
+    "wrong3":606,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9792, SP \u20b9666. Loss % =?",
+    "correct":16,
+    "wrong1":26,
+    "wrong2":36,
+    "wrong3":6,
+    "CBL":1
+  },
+  {
+    "question":"MP \u20b9667, Discount 15%. SP =?",
+    "correct":567,
+    "wrong1":587,
+    "wrong2":597,
+    "wrong3":557,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9471, Profit 20%. CP =?",
+    "correct":402,
+    "wrong1":422,
+    "wrong2":392,
+    "wrong3":382,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9293, SP \u20b9232. Loss % =?",
+    "correct":11,
+    "wrong1":1,
+    "wrong2":51,
+    "wrong3":21,
+    "CBL":4
+  },
+  {
+    "question":"SP \u20b9493, Profit 40%. CP =?",
+    "correct":352,
+    "wrong1":362,
+    "wrong2":372,
+    "wrong3":382,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9183, SP \u20b9219. Profit % =?",
+    "correct":20,
+    "wrong1":40,
+    "wrong2":50,
+    "wrong3":10,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9574, Loss 31%. CP =?",
+    "correct":801,
+    "wrong1":851,
+    "wrong2":831,
+    "wrong3":811,
+    "CBL":3
+  },
+  {
+    "question":"SP \u20b9701, Profit 12%. CP =?",
+    "correct":625,
+    "wrong1":595,
+    "wrong2":635,
+    "wrong3":645,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9694, Loss 17%. SP =?",
+    "correct":587,
+    "wrong1":557,
+    "wrong2":567,
+    "wrong3":577,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9188, SP \u20b9158. Loss % =?",
+    "correct":46,
+    "wrong1":26,
+    "wrong2":6,
+    "wrong3":16,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9469, SP \u20b9380. Loss % =?",
+    "correct":49,
+    "wrong1":29,
+    "wrong2":39,
+    "wrong3":19,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9633, SP \u20b9507. Loss % =?",
+    "correct":40,
+    "wrong1":20,
+    "wrong2":50,
+    "wrong3":30,
+    "CBL":2
+  },
+  {
+    "question":"SP \u20b9398, Loss 28%. CP =?",
+    "correct":562,
+    "wrong1":532,
+    "wrong2":552,
+    "wrong3":542,
+    "CBL":3
+  },
+  {
+    "question":"MP \u20b9598, Discount 21%. SP =?",
+    "correct":483,
+    "wrong1":443,
+    "wrong2":463,
+    "wrong3":473,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9101, SP \u20b995. Loss % =?",
+    "correct":16,
+    "wrong1":6,
+    "wrong2":26,
+    "wrong3":36,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9834, Profit 26%. SP =?",
+    "correct":1050,
+    "wrong1":1080,
+    "wrong2":1070,
+    "wrong3":1030,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9825, SP \u20b9957. Profit % =?",
+    "correct":26,
+    "wrong1":16,
+    "wrong2":36,
+    "wrong3":46,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9892, Loss 27%. SP =?",
+    "correct":672,
+    "wrong1":682,
+    "wrong2":642,
+    "wrong3":652,
+    "CBL":4
+  },
+  {
+    "question":"SP \u20b9622, Profit 10%. CP =?",
+    "correct":585,
+    "wrong1":595,
+    "wrong2":565,
+    "wrong3":555,
+    "CBL":3
+  },
+  {
+    "question":"SP \u20b9256, Profit 21%. CP =?",
+    "correct":211,
+    "wrong1":201,
+    "wrong2":221,
+    "wrong3":231,
+    "CBL":1
+  },
+  {
+    "question":"MP \u20b9931, Discount 19%. SP =?",
+    "correct":755,
+    "wrong1":725,
+    "wrong2":765,
+    "wrong3":775,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9396, Loss 37%. CP =?",
+    "correct":628,
+    "wrong1":658,
+    "wrong2":638,
+    "wrong3":618,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9213, SP \u20b9145. Loss % =?",
+    "correct":32,
+    "wrong1":2,
+    "wrong2":12,
+    "wrong3":62,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9431, Profit 5%. CP =?",
+    "correct":410,
+    "wrong1":400,
+    "wrong2":380,
+    "wrong3":430,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9870, Loss 24%. SP =?",
+    "correct":692,
+    "wrong1":652,
+    "wrong2":642,
+    "wrong3":662,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9490, SP \u20b9456. Loss % =?",
+    "correct":17,
+    "wrong1":27,
+    "wrong2":37,
+    "wrong3":7,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9104, SP \u20b9113. Profit % =?",
+    "correct":9,
+    "wrong1":19,
+    "wrong2":29,
+    "wrong3":39,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9346, SP \u20b9246. Loss % =?",
+    "correct":49,
+    "wrong1":59,
+    "wrong2":39,
+    "wrong3":29,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9202, SP \u20b9136. Loss % =?",
+    "correct":33,
+    "wrong1":43,
+    "wrong2":13,
+    "wrong3":23,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9274, SP \u20b9217. Loss % =?",
+    "correct":1,
+    "wrong1":11,
+    "wrong2":31,
+    "wrong3":21,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9746, Profit 33%. SP =?",
+    "correct":1002,
+    "wrong1":992,
+    "wrong2":972,
+    "wrong3":1022,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9755, Profit 19%. SP =?",
+    "correct":928,
+    "wrong1":898,
+    "wrong2":868,
+    "wrong3":888,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9867, SP \u20b9521. Loss % =?",
+    "correct":40,
+    "wrong1":10,
+    "wrong2":60,
+    "wrong3":70,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9141, SP \u20b9169. Profit % =?",
+    "correct":20,
+    "wrong1":40,
+    "wrong2":50,
+    "wrong3":30,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9822, Loss 27%. SP =?",
+    "correct":611,
+    "wrong1":601,
+    "wrong2":571,
+    "wrong3":591,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9639, SP \u20b9429. Loss % =?",
+    "correct":3,
+    "wrong1":53,
+    "wrong2":33,
+    "wrong3":23,
+    "CBL":3
+  },
+  {
+    "question":"MP \u20b9673, Discount 26%. SP =?",
+    "correct":529,
+    "wrong1":499,
+    "wrong2":489,
+    "wrong3":469,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9898, Loss 22%. SP =?",
+    "correct":721,
+    "wrong1":691,
+    "wrong2":701,
+    "wrong3":731,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9177, SP \u20b9156. Loss % =?",
+    "correct":12,
+    "wrong1":32,
+    "wrong2":42,
+    "wrong3":2,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9105, Profit 34%. SP =?",
+    "correct":140,
+    "wrong1":160,
+    "wrong2":110,
+    "wrong3":150,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9213, Loss 33%. SP =?",
+    "correct":153,
+    "wrong1":143,
+    "wrong2":173,
+    "wrong3":113,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9126, SP \u20b999. Loss % =?",
+    "correct":32,
+    "wrong1":42,
+    "wrong2":2,
+    "wrong3":22,
+    "CBL":4
+  },
+  {
+    "question":"MP \u20b9746, Discount 27%. SP =?",
+    "correct":545,
+    "wrong1":565,
+    "wrong2":555,
+    "wrong3":525,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9610, Profit 39%. SP =?",
+    "correct":857,
+    "wrong1":817,
+    "wrong2":847,
+    "wrong3":837,
+    "CBL":3
+  },
+  {
+    "question":"SP \u20b9506, Loss 29%. CP =?",
+    "correct":692,
+    "wrong1":712,
+    "wrong2":732,
+    "wrong3":742,
+    "CBL":2
+  },
+  {
+    "question":"SP \u20b9607, Profit 28%. CP =?",
+    "correct":464,
+    "wrong1":444,
+    "wrong2":494,
+    "wrong3":474,
+    "CBL":4
+  },
+  {
+    "question":"MP \u20b9866, Discount 32%. SP =?",
+    "correct":589,
+    "wrong1":569,
+    "wrong2":579,
+    "wrong3":619,
+    "CBL":1
+  },
+  {
+    "question":"MP \u20b9635, Discount 30%. SP =?",
+    "correct":445,
+    "wrong1":435,
+    "wrong2":475,
+    "wrong3":455,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9791, Loss 9%. CP =?",
+    "correct":869,
+    "wrong1":889,
+    "wrong2":859,
+    "wrong3":899,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9874, SP \u20b9935. Profit % =?",
+    "correct":17,
+    "wrong1":7,
+    "wrong2":27,
+    "wrong3":37,
+    "CBL":2
+  },
+  {
+    "question":"SP \u20b9237, Profit 10%. CP =?",
+    "correct":215,
+    "wrong1":185,
+    "wrong2":235,
+    "wrong3":245,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9341, Profit 17%. SP =?",
+    "correct":408,
+    "wrong1":418,
+    "wrong2":398,
+    "wrong3":388,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9395, Loss 40%. SP =?",
+    "correct":237,
+    "wrong1":257,
+    "wrong2":227,
+    "wrong3":217,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9438, SP \u20b9373. Loss % =?",
+    "correct":15,
+    "wrong1":25,
+    "wrong2":5,
+    "wrong3":45,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9472, Profit 9%. SP =?",
+    "correct":504,
+    "wrong1":524,
+    "wrong2":514,
+    "wrong3":484,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9707, Loss 19%. SP =?",
+    "correct":603,
+    "wrong1":543,
+    "wrong2":583,
+    "wrong3":573,
+    "CBL":4
+  },
+  {
+    "question":"SP \u20b9138, Profit 21%. CP =?",
+    "correct":104,
+    "wrong1":114,
+    "wrong2":84,
+    "wrong3":94,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9282, Profit 13%. SP =?",
+    "correct":288,
+    "wrong1":298,
+    "wrong2":318,
+    "wrong3":308,
+    "CBL":3
+  },
+  {
+    "question":"MP \u20b9733, Discount 11%. SP =?",
+    "correct":673,
+    "wrong1":643,
+    "wrong2":683,
+    "wrong3":653,
+    "CBL":4
+  },
+  {
+    "question":"SP \u20b9887, Profit 39%. CP =?",
+    "correct":648,
+    "wrong1":618,
+    "wrong2":668,
+    "wrong3":638,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9761, SP \u20b9510. Loss % =?",
+    "correct":43,
+    "wrong1":33,
+    "wrong2":53,
+    "wrong3":63,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9102, Loss 10%. SP =?",
+    "correct":92,
+    "wrong1":72,
+    "wrong2":82,
+    "wrong3":112,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9869, Loss 9%. SP =?",
+    "correct":811,
+    "wrong1":791,
+    "wrong2":771,
+    "wrong3":761,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9306, SP \u20b9370. Profit % =?",
+    "correct":21,
+    "wrong1":41,
+    "wrong2":51,
+    "wrong3":1,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9653, Profit 5%. CP =?",
+    "correct":621,
+    "wrong1":611,
+    "wrong2":601,
+    "wrong3":651,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9393, Loss 30%. SP =?",
+    "correct":256,
+    "wrong1":276,
+    "wrong2":296,
+    "wrong3":246,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9542, Profit 15%. SP =?",
+    "correct":623,
+    "wrong1":633,
+    "wrong2":613,
+    "wrong3":653,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9673, Profit 16%. SP =?",
+    "correct":770,
+    "wrong1":750,
+    "wrong2":780,
+    "wrong3":790,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9469, SP \u20b9619. Profit % =?",
+    "correct":42,
+    "wrong1":12,
+    "wrong2":32,
+    "wrong3":52,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9619, Profit 7%. SP =?",
+    "correct":632,
+    "wrong1":682,
+    "wrong2":662,
+    "wrong3":692,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9246, SP \u20b9295. Profit % =?",
+    "correct":10,
+    "wrong1":50,
+    "wrong2":30,
+    "wrong3":20,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9504, SP \u20b9459. Loss % =?",
+    "correct":9,
+    "wrong1":19,
+    "wrong2":29,
+    "wrong3":39,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9746, SP \u20b9783. Profit % =?",
+    "correct":25,
+    "wrong1":5,
+    "wrong2":35,
+    "wrong3":15,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9235, SP \u20b9253. Profit % =?",
+    "correct":8,
+    "wrong1":18,
+    "wrong2":28,
+    "wrong3":38,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9794, Profit 17%. SP =?",
+    "correct":938,
+    "wrong1":928,
+    "wrong2":948,
+    "wrong3":958,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9664, Profit 38%. SP =?",
+    "correct":936,
+    "wrong1":946,
+    "wrong2":916,
+    "wrong3":926,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9655, SP \u20b9531. Loss % =?",
+    "correct":19,
+    "wrong1":9,
+    "wrong2":29,
+    "wrong3":39,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9288, SP \u20b9199. Loss % =?",
+    "correct":1,
+    "wrong1":31,
+    "wrong2":51,
+    "wrong3":21,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9153, SP \u20b9186. Profit % =?",
+    "correct":22,
+    "wrong1":32,
+    "wrong2":42,
+    "wrong3":12,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9297, SP \u20b9335. Profit % =?",
+    "correct":3,
+    "wrong1":13,
+    "wrong2":33,
+    "wrong3":43,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9401, Profit 9%. SP =?",
+    "correct":417,
+    "wrong1":437,
+    "wrong2":467,
+    "wrong3":407,
+    "CBL":2
+  },
+  {
+    "question":"MP \u20b9500, Discount 20%. SP =?",
+    "correct":370,
+    "wrong1":400,
+    "wrong2":390,
+    "wrong3":430,
+    "CBL":2
+  },
+  {
+    "question":"MP \u20b9450, Discount 18%. SP =?",
+    "correct":339,
+    "wrong1":349,
+    "wrong2":369,
+    "wrong3":359,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9573, SP \u20b9779. Profit % =?",
+    "correct":56,
+    "wrong1":26,
+    "wrong2":6,
+    "wrong3":36,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9220, SP \u20b9248. Profit % =?",
+    "correct":13,
+    "wrong1":43,
+    "wrong2":3,
+    "wrong3":33,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9507, Loss 33%. SP =?",
+    "correct":320,
+    "wrong1":340,
+    "wrong2":370,
+    "wrong3":360,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9797, SP \u20b9844. Profit % =?",
+    "correct":16,
+    "wrong1":26,
+    "wrong2":6,
+    "wrong3":36,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9226, Profit 33%. SP =?",
+    "correct":280,
+    "wrong1":300,
+    "wrong2":320,
+    "wrong3":310,
+    "CBL":2
+  },
+  {
+    "question":"SP \u20b9345, Loss 27%. CP =?",
+    "correct":442,
+    "wrong1":472,
+    "wrong2":452,
+    "wrong3":502,
+    "CBL":2
+  },
+  {
+    "question":"MP \u20b9743, Discount 38%. SP =?",
+    "correct":461,
+    "wrong1":481,
+    "wrong2":491,
+    "wrong3":431,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9396, Profit 38%. SP =?",
+    "correct":546,
+    "wrong1":536,
+    "wrong2":556,
+    "wrong3":566,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9429, Profit 15%. SP =?",
+    "correct":523,
+    "wrong1":493,
+    "wrong2":483,
+    "wrong3":503,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9869, SP \u20b9730. Loss % =?",
+    "correct":26,
+    "wrong1":16,
+    "wrong2":36,
+    "wrong3":6,
+    "CBL":2
+  },
+  {
+    "question":"SP \u20b9760, Loss 8%. CP =?",
+    "correct":856,
+    "wrong1":826,
+    "wrong2":836,
+    "wrong3":846,
+    "CBL":2
+  },
+  {
+    "question":"SP \u20b9620, Loss 23%. CP =?",
+    "correct":825,
+    "wrong1":785,
+    "wrong2":805,
+    "wrong3":775,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9310, Profit 15%. SP =?",
+    "correct":376,
+    "wrong1":386,
+    "wrong2":326,
+    "wrong3":356,
+    "CBL":4
+  },
+  {
+    "question":"SP \u20b9315, Loss 34%. CP =?",
+    "correct":497,
+    "wrong1":507,
+    "wrong2":457,
+    "wrong3":477,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9764, Loss 38%. SP =?",
+    "correct":464,
+    "wrong1":484,
+    "wrong2":454,
+    "wrong3":474,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9865, SP \u20b91141. Profit % =?",
+    "correct":2,
+    "wrong1":12,
+    "wrong2":32,
+    "wrong3":62,
+    "CBL":3
+  },
+  {
+    "question":"SP \u20b9669, Profit 7%. CP =?",
+    "correct":625,
+    "wrong1":655,
+    "wrong2":605,
+    "wrong3":615,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9111, Loss 28%. CP =?",
+    "correct":154,
+    "wrong1":144,
+    "wrong2":124,
+    "wrong3":134,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9771, SP \u20b9556. Loss % =?",
+    "correct":28,
+    "wrong1":48,
+    "wrong2":58,
+    "wrong3":38,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9696, Loss 33%. SP =?",
+    "correct":467,
+    "wrong1":497,
+    "wrong2":437,
+    "wrong3":447,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9976, Profit 28%. CP =?",
+    "correct":792,
+    "wrong1":762,
+    "wrong2":782,
+    "wrong3":742,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9279, Loss 12%. SP =?",
+    "correct":216,
+    "wrong1":246,
+    "wrong2":266,
+    "wrong3":276,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9370, SP \u20b9514. Profit % =?",
+    "correct":49,
+    "wrong1":59,
+    "wrong2":39,
+    "wrong3":69,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9136, Loss 5%. SP =?",
+    "correct":100,
+    "wrong1":140,
+    "wrong2":120,
+    "wrong3":130,
+    "CBL":4
+  },
+  {
+    "question":"MP \u20b9210, Discount 25%. SP =?",
+    "correct":178,
+    "wrong1":148,
+    "wrong2":138,
+    "wrong3":158,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9674, Loss 9%. SP =?",
+    "correct":584,
+    "wrong1":614,
+    "wrong2":594,
+    "wrong3":604,
+    "CBL":2
+  },
+  {
+    "question":"MP \u20b9581, Discount 39%. SP =?",
+    "correct":345,
+    "wrong1":385,
+    "wrong2":355,
+    "wrong3":375,
+    "CBL":3
+  },
+  {
+    "question":"MP \u20b9686, Discount 38%. SP =?",
+    "correct":416,
+    "wrong1":396,
+    "wrong2":436,
+    "wrong3":426,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9583, SP \u20b9502. Loss % =?",
+    "correct":14,
+    "wrong1":24,
+    "wrong2":34,
+    "wrong3":44,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9292, Profit 40%. CP =?",
+    "correct":218,
+    "wrong1":188,
+    "wrong2":228,
+    "wrong3":208,
+    "CBL":4
+  },
+  {
+    "question":"MP \u20b9961, Discount 14%. SP =?",
+    "correct":857,
+    "wrong1":817,
+    "wrong2":837,
+    "wrong3":827,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9229, SP \u20b9152. Loss % =?",
+    "correct":24,
+    "wrong1":44,
+    "wrong2":54,
+    "wrong3":34,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9838, Loss 39%. SP =?",
+    "correct":482,
+    "wrong1":512,
+    "wrong2":522,
+    "wrong3":502,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9742, SP \u20b9475. Loss % =?",
+    "correct":56,
+    "wrong1":26,
+    "wrong2":6,
+    "wrong3":36,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9403, Loss 20%. SP =?",
+    "correct":353,
+    "wrong1":323,
+    "wrong2":343,
+    "wrong3":303,
+    "CBL":2
+  },
+  {
+    "question":"SP \u20b9589, Profit 36%. CP =?",
+    "correct":443,
+    "wrong1":433,
+    "wrong2":413,
+    "wrong3":423,
+    "CBL":2
+  },
+  {
+    "question":"SP \u20b9899, Profit 10%. CP =?",
+    "correct":817,
+    "wrong1":797,
+    "wrong2":837,
+    "wrong3":807,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9710, SP \u20b9597. Loss % =?",
+    "correct":46,
+    "wrong1":16,
+    "wrong2":26,
+    "wrong3":6,
+    "CBL":2
+  },
+  {
+    "question":"SP \u20b9518, Profit 32%. CP =?",
+    "correct":372,
+    "wrong1":412,
+    "wrong2":392,
+    "wrong3":422,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9758, Loss 40%. SP =?",
+    "correct":465,
+    "wrong1":455,
+    "wrong2":475,
+    "wrong3":435,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9797, SP \u20b91004. Profit % =?",
+    "correct":26,
+    "wrong1":16,
+    "wrong2":46,
+    "wrong3":6,
+    "CBL":1
+  },
+  {
+    "question":"MP \u20b9348, Discount 34%. SP =?",
+    "correct":210,
+    "wrong1":230,
+    "wrong2":250,
+    "wrong3":260,
+    "CBL":2
+  },
+  {
+    "question":"MP \u20b9270, Discount 13%. SP =?",
+    "correct":265,
+    "wrong1":215,
+    "wrong2":235,
+    "wrong3":255,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9459, SP \u20b9592. Profit % =?",
+    "correct":9,
+    "wrong1":19,
+    "wrong2":39,
+    "wrong3":29,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9521, SP \u20b9490. Loss % =?",
+    "correct":16,
+    "wrong1":26,
+    "wrong2":36,
+    "wrong3":6,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9655, SP \u20b9746. Profit % =?",
+    "correct":24,
+    "wrong1":4,
+    "wrong2":14,
+    "wrong3":44,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9337, Profit 28%. SP =?",
+    "correct":441,
+    "wrong1":411,
+    "wrong2":431,
+    "wrong3":421,
+    "CBL":3
+  },
+  {
+    "question":"SP \u20b9508, Loss 37%. CP =?",
+    "correct":826,
+    "wrong1":786,
+    "wrong2":806,
+    "wrong3":836,
+    "CBL":3
+  },
+  {
+    "question":"SP \u20b9312, Loss 38%. CP =?",
+    "correct":493,
+    "wrong1":483,
+    "wrong2":533,
+    "wrong3":503,
+    "CBL":4
+  },
+  {
+    "question":"MP \u20b9684, Discount 25%. SP =?",
+    "correct":483,
+    "wrong1":533,
+    "wrong2":513,
+    "wrong3":543,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9214, SP \u20b9182. Loss % =?",
+    "correct":25,
+    "wrong1":15,
+    "wrong2":35,
+    "wrong3":45,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9530, Loss 25%. SP =?",
+    "correct":368,
+    "wrong1":378,
+    "wrong2":398,
+    "wrong3":428,
+    "CBL":3
+  },
+  {
+    "question":"SP \u20b9982, Loss 37%. CP =?",
+    "correct":1558,
+    "wrong1":1528,
+    "wrong2":1538,
+    "wrong3":1568,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9265, Profit 40%. CP =?",
+    "correct":209,
+    "wrong1":219,
+    "wrong2":199,
+    "wrong3":189,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9104, SP \u20b997. Loss % =?",
+    "correct":17,
+    "wrong1":7,
+    "wrong2":27,
+    "wrong3":37,
+    "CBL":2
+  },
+  {
+    "question":"MP \u20b9589, Discount 15%. SP =?",
+    "correct":521,
+    "wrong1":531,
+    "wrong2":501,
+    "wrong3":481,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9441, Profit 6%. SP =?",
+    "correct":477,
+    "wrong1":437,
+    "wrong2":467,
+    "wrong3":447,
+    "CBL":3
+  },
+  {
+    "question":"MP \u20b9503, Discount 9%. SP =?",
+    "correct":458,
+    "wrong1":488,
+    "wrong2":468,
+    "wrong3":478,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9890, Profit 12%. CP =?",
+    "correct":794,
+    "wrong1":824,
+    "wrong2":764,
+    "wrong3":804,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9420, Loss 12%. SP =?",
+    "correct":400,
+    "wrong1":380,
+    "wrong2":370,
+    "wrong3":340,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9527, Loss 31%. SP =?",
+    "correct":384,
+    "wrong1":354,
+    "wrong2":364,
+    "wrong3":374,
+    "CBL":3
+  },
+  {
+    "question":"MP \u20b9868, Discount 27%. SP =?",
+    "correct":634,
+    "wrong1":664,
+    "wrong2":644,
+    "wrong3":614,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9607, Profit 24%. CP =?",
+    "correct":459,
+    "wrong1":509,
+    "wrong2":489,
+    "wrong3":499,
+    "CBL":3
+  },
+  {
+    "question":"SP \u20b9617, Loss 31%. CP =?",
+    "correct":894,
+    "wrong1":864,
+    "wrong2":914,
+    "wrong3":874,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9121, SP \u20b9108. Loss % =?",
+    "correct":11,
+    "wrong1":1,
+    "wrong2":41,
+    "wrong3":31,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9213, SP \u20b9175. Loss % =?",
+    "correct":48,
+    "wrong1":18,
+    "wrong2":8,
+    "wrong3":28,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9479, SP \u20b9388. Loss % =?",
+    "correct":49,
+    "wrong1":19,
+    "wrong2":29,
+    "wrong3":39,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9381, Profit 5%. SP =?",
+    "correct":370,
+    "wrong1":400,
+    "wrong2":380,
+    "wrong3":390,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9542, Loss 26%. SP =?",
+    "correct":392,
+    "wrong1":372,
+    "wrong2":402,
+    "wrong3":412,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9493, SP \u20b9370. Loss % =?",
+    "correct":15,
+    "wrong1":45,
+    "wrong2":25,
+    "wrong3":55,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9485, SP \u20b9398. Loss % =?",
+    "correct":8,
+    "wrong1":28,
+    "wrong2":38,
+    "wrong3":18,
+    "CBL":4
+  },
+  {
+    "question":"SP \u20b9462, Loss 36%. CP =?",
+    "correct":731,
+    "wrong1":741,
+    "wrong2":721,
+    "wrong3":711,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9687, Profit 26%. SP =?",
+    "correct":895,
+    "wrong1":885,
+    "wrong2":865,
+    "wrong3":855,
+    "CBL":3
+  },
+  {
+    "question":"SP \u20b9328, Profit 39%. CP =?",
+    "correct":225,
+    "wrong1":245,
+    "wrong2":235,
+    "wrong3":255,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9369, Profit 34%. SP =?",
+    "correct":494,
+    "wrong1":514,
+    "wrong2":484,
+    "wrong3":524,
+    "CBL":1
+  },
+  {
+    "question":"MP \u20b9273, Discount 20%. SP =?",
+    "correct":209,
+    "wrong1":219,
+    "wrong2":229,
+    "wrong3":199,
+    "CBL":2
+  },
+  {
+    "question":"MP \u20b9615, Discount 34%. SP =?",
+    "correct":406,
+    "wrong1":376,
+    "wrong2":386,
+    "wrong3":416,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9298, Loss 13%. CP =?",
+    "correct":352,
+    "wrong1":342,
+    "wrong2":312,
+    "wrong3":372,
+    "CBL":2
+  },
+  {
+    "question":"SP \u20b9935, Loss 20%. CP =?",
+    "correct":1178,
+    "wrong1":1198,
+    "wrong2":1138,
+    "wrong3":1168,
+    "CBL":4
+  },
+  {
+    "question":"SP \u20b9344, Loss 33%. CP =?",
+    "correct":523,
+    "wrong1":493,
+    "wrong2":543,
+    "wrong3":513,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9803, SP \u20b9875. Profit % =?",
+    "correct":9,
+    "wrong1":19,
+    "wrong2":29,
+    "wrong3":39,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9573, SP \u20b9488. Loss % =?",
+    "correct":15,
+    "wrong1":45,
+    "wrong2":35,
+    "wrong3":5,
+    "CBL":1
+  },
+  {
+    "question":"MP \u20b9659, Discount 38%. SP =?",
+    "correct":379,
+    "wrong1":409,
+    "wrong2":389,
+    "wrong3":399,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9890, SP \u20b9552. Loss % =?",
+    "correct":8,
+    "wrong1":58,
+    "wrong2":38,
+    "wrong3":18,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9333, Loss 22%. SP =?",
+    "correct":280,
+    "wrong1":260,
+    "wrong2":290,
+    "wrong3":250,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9312, Profit 19%. SP =?",
+    "correct":401,
+    "wrong1":371,
+    "wrong2":361,
+    "wrong3":391,
+    "CBL":2
+  },
+  {
+    "question":"SP \u20b9998, Loss 11%. CP =?",
+    "correct":1091,
+    "wrong1":1121,
+    "wrong2":1131,
+    "wrong3":1151,
+    "CBL":2
+  },
+  {
+    "question":"SP \u20b9624, Profit 25%. CP =?",
+    "correct":469,
+    "wrong1":499,
+    "wrong2":529,
+    "wrong3":509,
+    "CBL":2
+  },
+  {
+    "question":"MP \u20b9834, Discount 22%. SP =?",
+    "correct":621,
+    "wrong1":661,
+    "wrong2":651,
+    "wrong3":671,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9169, SP \u20b9112. Loss % =?",
+    "correct":24,
+    "wrong1":44,
+    "wrong2":54,
+    "wrong3":34,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9276, SP \u20b9252. Loss % =?",
+    "correct":19,
+    "wrong1":29,
+    "wrong2":9,
+    "wrong3":39,
+    "CBL":3
+  },
+  {
+    "question":"MP \u20b9825, Discount 6%. SP =?",
+    "correct":786,
+    "wrong1":746,
+    "wrong2":776,
+    "wrong3":806,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9389, SP \u20b9370. Loss % =?",
+    "correct":5,
+    "wrong1":25,
+    "wrong2":35,
+    "wrong3":15,
+    "CBL":1
+  },
+  {
+    "question":"MP \u20b9379, Discount 40%. SP =?",
+    "correct":228,
+    "wrong1":218,
+    "wrong2":258,
+    "wrong3":198,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9397, SP \u20b9274. Loss % =?",
+    "correct":41,
+    "wrong1":11,
+    "wrong2":31,
+    "wrong3":1,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9229, Loss 27%. SP =?",
+    "correct":168,
+    "wrong1":178,
+    "wrong2":198,
+    "wrong3":158,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9787, Loss 27%. CP =?",
+    "correct":1078,
+    "wrong1":1048,
+    "wrong2":1098,
+    "wrong3":1108,
+    "CBL":1
+  },
+  {
+    "question":"MP \u20b9351, Discount 17%. SP =?",
+    "correct":322,
+    "wrong1":282,
+    "wrong2":302,
+    "wrong3":292,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9874, Loss 37%. SP =?",
+    "correct":521,
+    "wrong1":551,
+    "wrong2":571,
+    "wrong3":561,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9607, Profit 32%. SP =?",
+    "correct":801,
+    "wrong1":821,
+    "wrong2":781,
+    "wrong3":791,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9842, Loss 34%. CP =?",
+    "correct":1265,
+    "wrong1":1245,
+    "wrong2":1295,
+    "wrong3":1275,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9442, Profit 38%. SP =?",
+    "correct":629,
+    "wrong1":589,
+    "wrong2":639,
+    "wrong3":609,
+    "CBL":4
+  },
+  {
+    "question":"SP \u20b9987, Profit 24%. CP =?",
+    "correct":785,
+    "wrong1":805,
+    "wrong2":795,
+    "wrong3":765,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9585, SP \u20b9725. Profit % =?",
+    "correct":34,
+    "wrong1":44,
+    "wrong2":4,
+    "wrong3":24,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9176, Profit 10%. SP =?",
+    "correct":193,
+    "wrong1":183,
+    "wrong2":213,
+    "wrong3":223,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9343, SP \u20b9466. Profit % =?",
+    "correct":36,
+    "wrong1":16,
+    "wrong2":56,
+    "wrong3":46,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9425, Loss 38%. CP =?",
+    "correct":685,
+    "wrong1":665,
+    "wrong2":675,
+    "wrong3":655,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9368, SP \u20b9515. Profit % =?",
+    "correct":40,
+    "wrong1":10,
+    "wrong2":60,
+    "wrong3":30,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9450, SP \u20b9486. Profit % =?",
+    "correct":18,
+    "wrong1":28,
+    "wrong2":8,
+    "wrong3":38,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9142, Loss 40%. SP =?",
+    "correct":116,
+    "wrong1":66,
+    "wrong2":86,
+    "wrong3":76,
+    "CBL":3
+  },
+  {
+    "question":"MP \u20b9314, Discount 32%. SP =?",
+    "correct":224,
+    "wrong1":234,
+    "wrong2":214,
+    "wrong3":184,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9130, Loss 30%. SP =?",
+    "correct":81,
+    "wrong1":101,
+    "wrong2":111,
+    "wrong3":91,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9629, SP \u20b9585. Loss % =?",
+    "correct":17,
+    "wrong1":7,
+    "wrong2":27,
+    "wrong3":37,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9689, Loss 34%. SP =?",
+    "correct":455,
+    "wrong1":465,
+    "wrong2":425,
+    "wrong3":445,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9248, Profit 13%. CP =?",
+    "correct":219,
+    "wrong1":209,
+    "wrong2":229,
+    "wrong3":199,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9545, SP \u20b9746. Profit % =?",
+    "correct":57,
+    "wrong1":67,
+    "wrong2":47,
+    "wrong3":37,
+    "CBL":4
+  },
+  {
+    "question":"SP \u20b9126, Profit 20%. CP =?",
+    "correct":85,
+    "wrong1":105,
+    "wrong2":95,
+    "wrong3":135,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9802, SP \u20b91066. Profit % =?",
+    "correct":43,
+    "wrong1":53,
+    "wrong2":33,
+    "wrong3":23,
+    "CBL":3
+  },
+  {
+    "question":"SP \u20b9360, Profit 19%. CP =?",
+    "correct":302,
+    "wrong1":322,
+    "wrong2":282,
+    "wrong3":292,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9755, Profit 16%. CP =?",
+    "correct":640,
+    "wrong1":670,
+    "wrong2":630,
+    "wrong3":650,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9821, SP \u20b91149. Profit % =?",
+    "correct":50,
+    "wrong1":40,
+    "wrong2":10,
+    "wrong3":20,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9518, SP \u20b9683. Profit % =?",
+    "correct":32,
+    "wrong1":62,
+    "wrong2":52,
+    "wrong3":22,
+    "CBL":1
+  },
+  {
+    "question":"MP \u20b9237, Discount 32%. SP =?",
+    "correct":132,
+    "wrong1":162,
+    "wrong2":182,
+    "wrong3":142,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9223, SP \u20b9134. Loss % =?",
+    "correct":40,
+    "wrong1":10,
+    "wrong2":70,
+    "wrong3":30,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9160, SP \u20b9117. Loss % =?",
+    "correct":17,
+    "wrong1":7,
+    "wrong2":47,
+    "wrong3":27,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9183, SP \u20b9214. Profit % =?",
+    "correct":47,
+    "wrong1":37,
+    "wrong2":17,
+    "wrong3":7,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9337, Loss 15%. SP =?",
+    "correct":297,
+    "wrong1":307,
+    "wrong2":277,
+    "wrong3":287,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9405, Loss 24%. SP =?",
+    "correct":288,
+    "wrong1":298,
+    "wrong2":308,
+    "wrong3":278,
+    "CBL":3
+  },
+  {
+    "question":"SP \u20b9810, Loss 29%. CP =?",
+    "correct":1120,
+    "wrong1":1130,
+    "wrong2":1170,
+    "wrong3":1140,
+    "CBL":4
+  },
+  {
+    "question":"MP \u20b9536, Discount 21%. SP =?",
+    "correct":434,
+    "wrong1":404,
+    "wrong2":454,
+    "wrong3":424,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9612, SP \u20b9813. Profit % =?",
+    "correct":43,
+    "wrong1":33,
+    "wrong2":53,
+    "wrong3":63,
+    "CBL":2
+  },
+  {
+    "question":"SP \u20b9692, Profit 7%. CP =?",
+    "correct":646,
+    "wrong1":656,
+    "wrong2":666,
+    "wrong3":616,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9459, SP \u20b9486. Profit % =?",
+    "correct":6,
+    "wrong1":16,
+    "wrong2":26,
+    "wrong3":36,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9410, Profit 39%. CP =?",
+    "correct":264,
+    "wrong1":274,
+    "wrong2":324,
+    "wrong3":294,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9256, Profit 18%. SP =?",
+    "correct":272,
+    "wrong1":282,
+    "wrong2":292,
+    "wrong3":302,
+    "CBL":4
+  },
+  {
+    "question":"SP \u20b9427, Loss 23%. CP =?",
+    "correct":554,
+    "wrong1":584,
+    "wrong2":544,
+    "wrong3":574,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9651, Profit 33%. SP =?",
+    "correct":835,
+    "wrong1":865,
+    "wrong2":895,
+    "wrong3":855,
+    "CBL":2
+  },
+  {
+    "question":"SP \u20b9720, Profit 15%. CP =?",
+    "correct":616,
+    "wrong1":596,
+    "wrong2":656,
+    "wrong3":626,
+    "CBL":4
+  },
+  {
+    "question":"SP \u20b9837, Loss 33%. CP =?",
+    "correct":1219,
+    "wrong1":1249,
+    "wrong2":1269,
+    "wrong3":1239,
+    "CBL":2
+  },
+  {
+    "question":"MP \u20b9577, Discount 30%. SP =?",
+    "correct":404,
+    "wrong1":434,
+    "wrong2":374,
+    "wrong3":394,
+    "CBL":1
+  },
+  {
+    "question":"MP \u20b9620, Discount 10%. SP =?",
+    "correct":558,
+    "wrong1":578,
+    "wrong2":538,
+    "wrong3":588,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9886, SP \u20b9630. Loss % =?",
+    "correct":9,
+    "wrong1":59,
+    "wrong2":39,
+    "wrong3":29,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9107, SP \u20b9135. Profit % =?",
+    "correct":17,
+    "wrong1":27,
+    "wrong2":37,
+    "wrong3":47,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9711, SP \u20b9846. Profit % =?",
+    "correct":49,
+    "wrong1":29,
+    "wrong2":19,
+    "wrong3":39,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9609, SP \u20b9573. Loss % =?",
+    "correct":6,
+    "wrong1":16,
+    "wrong2":26,
+    "wrong3":36,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9386, Loss 11%. SP =?",
+    "correct":314,
+    "wrong1":344,
+    "wrong2":324,
+    "wrong3":374,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9892, SP \u20b91230. Profit % =?",
+    "correct":38,
+    "wrong1":48,
+    "wrong2":58,
+    "wrong3":18,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9482, Loss 10%. SP =?",
+    "correct":424,
+    "wrong1":434,
+    "wrong2":444,
+    "wrong3":414,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9858, Profit 15%. SP =?",
+    "correct":986,
+    "wrong1":1016,
+    "wrong2":1006,
+    "wrong3":976,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9515, SP \u20b9556. Profit % =?",
+    "correct":8,
+    "wrong1":18,
+    "wrong2":28,
+    "wrong3":38,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9257, Profit 14%. CP =?",
+    "correct":225,
+    "wrong1":235,
+    "wrong2":195,
+    "wrong3":255,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9577, SP \u20b9605. Profit % =?",
+    "correct":25,
+    "wrong1":5,
+    "wrong2":35,
+    "wrong3":15,
+    "CBL":2
+  },
+  {
+    "question":"SP \u20b9663, Profit 30%. CP =?",
+    "correct":480,
+    "wrong1":510,
+    "wrong2":530,
+    "wrong3":540,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9513, Loss 8%. SP =?",
+    "correct":442,
+    "wrong1":452,
+    "wrong2":472,
+    "wrong3":462,
+    "CBL":3
+  },
+  {
+    "question":"MP \u20b9856, Discount 24%. SP =?",
+    "correct":641,
+    "wrong1":651,
+    "wrong2":661,
+    "wrong3":631,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9410, Profit 17%. SP =?",
+    "correct":449,
+    "wrong1":479,
+    "wrong2":499,
+    "wrong3":469,
+    "CBL":2
+  },
+  {
+    "question":"MP \u20b9846, Discount 38%. SP =?",
+    "correct":515,
+    "wrong1":525,
+    "wrong2":555,
+    "wrong3":495,
+    "CBL":2
+  },
+  {
+    "question":"SP \u20b9286, Loss 33%. CP =?",
+    "correct":456,
+    "wrong1":426,
+    "wrong2":396,
+    "wrong3":446,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9843, Profit 16%. SP =?",
+    "correct":977,
+    "wrong1":997,
+    "wrong2":947,
+    "wrong3":957,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9529, Loss 12%. CP =?",
+    "correct":601,
+    "wrong1":621,
+    "wrong2":581,
+    "wrong3":631,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9224, Loss 36%. SP =?",
+    "correct":154,
+    "wrong1":134,
+    "wrong2":144,
+    "wrong3":174,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9726, SP \u20b9813. Profit % =?",
+    "correct":32,
+    "wrong1":42,
+    "wrong2":22,
+    "wrong3":12,
+    "CBL":4
+  },
+  {
+    "question":"MP \u20b9231, Discount 10%. SP =?",
+    "correct":218,
+    "wrong1":208,
+    "wrong2":178,
+    "wrong3":198,
+    "CBL":2
+  },
+  {
+    "question":"SP \u20b9378, Loss 25%. CP =?",
+    "correct":484,
+    "wrong1":534,
+    "wrong2":504,
+    "wrong3":494,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9737, SP \u20b9509. Loss % =?",
+    "correct":31,
+    "wrong1":1,
+    "wrong2":51,
+    "wrong3":21,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9394, Profit 38%. CP =?",
+    "correct":305,
+    "wrong1":275,
+    "wrong2":295,
+    "wrong3":285,
+    "CBL":4
+  },
+  {
+    "question":"SP \u20b9223, Profit 35%. CP =?",
+    "correct":145,
+    "wrong1":155,
+    "wrong2":165,
+    "wrong3":175,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9701, Profit 23%. SP =?",
+    "correct":872,
+    "wrong1":862,
+    "wrong2":882,
+    "wrong3":892,
+    "CBL":2
+  },
+  {
+    "question":"SP \u20b9546, Loss 33%. CP =?",
+    "correct":824,
+    "wrong1":814,
+    "wrong2":794,
+    "wrong3":844,
+    "CBL":2
+  },
+  {
+    "question":"SP \u20b9475, Profit 15%. CP =?",
+    "correct":413,
+    "wrong1":393,
+    "wrong2":403,
+    "wrong3":423,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9626, SP \u20b9676. Profit % =?",
+    "correct":8,
+    "wrong1":18,
+    "wrong2":28,
+    "wrong3":38,
+    "CBL":1
+  },
+  {
+    "question":"SP \u20b9862, Loss 40%. CP =?",
+    "correct":1436,
+    "wrong1":1456,
+    "wrong2":1426,
+    "wrong3":1446,
+    "CBL":1
+  },
+  {
+    "question":"MP \u20b9316, Discount 18%. SP =?",
+    "correct":280,
+    "wrong1":240,
+    "wrong2":230,
+    "wrong3":260,
+    "CBL":4
+  },
+  {
+    "question":"SP \u20b9503, Loss 28%. CP =?",
+    "correct":698,
+    "wrong1":728,
+    "wrong2":668,
+    "wrong3":718,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9754, SP \u20b91055. Profit % =?",
+    "correct":40,
+    "wrong1":10,
+    "wrong2":20,
+    "wrong3":30,
+    "CBL":1
+  },
+  {
+    "question":"MP \u20b9724, Discount 15%. SP =?",
+    "correct":586,
+    "wrong1":616,
+    "wrong2":636,
+    "wrong3":646,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9583, SP \u20b9490. Loss % =?",
+    "correct":26,
+    "wrong1":36,
+    "wrong2":16,
+    "wrong3":6,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9394, Loss 27%. SP =?",
+    "correct":298,
+    "wrong1":318,
+    "wrong2":288,
+    "wrong3":278,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9514, Profit 31%. SP =?",
+    "correct":703,
+    "wrong1":643,
+    "wrong2":663,
+    "wrong3":673,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9583, SP \u20b9508. Loss % =?",
+    "correct":13,
+    "wrong1":3,
+    "wrong2":43,
+    "wrong3":23,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9793, Profit 13%. SP =?",
+    "correct":876,
+    "wrong1":916,
+    "wrong2":926,
+    "wrong3":896,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9519, Loss 14%. SP =?",
+    "correct":457,
+    "wrong1":427,
+    "wrong2":437,
+    "wrong3":447,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9112, SP \u20b9148. Profit % =?",
+    "correct":13,
+    "wrong1":43,
+    "wrong2":33,
+    "wrong3":53,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9652, Loss 15%. SP =?",
+    "correct":585,
+    "wrong1":545,
+    "wrong2":535,
+    "wrong3":555,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9267, Loss 7%. SP =?",
+    "correct":259,
+    "wrong1":249,
+    "wrong2":239,
+    "wrong3":279,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9140, SP \u20b9191. Profit % =?",
+    "correct":17,
+    "wrong1":57,
+    "wrong2":47,
+    "wrong3":37,
+    "CBL":4
+  },
+  {
+    "question":"CP \u20b9191, Profit 26%. SP =?",
+    "correct":210,
+    "wrong1":240,
+    "wrong2":220,
+    "wrong3":260,
+    "CBL":2
+  },
+  {
+    "question":"CP \u20b9509, SP \u20b9615. Profit % =?",
+    "correct":21,
+    "wrong1":11,
+    "wrong2":1,
+    "wrong3":51,
+    "CBL":1
+  },
+  {
+    "question":"CP \u20b9746, SP \u20b9850. Profit % =?",
+    "correct":24,
+    "wrong1":34,
+    "wrong2":14,
+    "wrong3":4,
+    "CBL":3
+  },
+  {
+    "question":"CP \u20b9279, SP \u20b9332. Profit % =?",
+    "correct":49,
+    "wrong1":19,
+    "wrong2":29,
+    "wrong3":9,
+    "CBL":2
+  }
+]
