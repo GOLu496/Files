@@ -1,34 +1,11 @@
 {
   "pieces": [
-    {
-      "piece": "King", 
-      "row": 3, 
-      "col": 1
-    },
-    {
-      "piece": "Star", 
-      "row": 0, 
-      "col": 1
-    },
-    {
-      "piece": "Rook", 
-      "row": 0, 
-      "col": 0
-    },
-    {
-      "piece": "Knight", 
-      "row": 0, 
-      "col": 2
-    },
-    {
-      "piece": "Bishop", 
-      "row": 1, 
-      "col": 3
-    },
-    {
-      "piece": "Block", 
-      "row": 2, 
-      "col": 1
-    }
-  ]
-}
+      { "piece": "King", "row": 3, "col": 2 },
+      { "piece": "Star", "row": 0, "col": 1 },
+      { "piece": "Block", "row": 1, "col": 2 },
+      { "piece": "Block", "row": 2, "col": 1 },
+      { "piece": "Rook", "row": 0, "col": 3 },
+      { "piece": "Knight", "row": 3, "col": 0 }
+    ]
+  }
+]
