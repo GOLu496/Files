@@ -18,17 +18,57 @@
     {
       "piece": "Rook", 
       "row": 2, 
-      "col": 1,2,3
+      "col": 1
+    },
+    {
+      "piece": "Rook", 
+      "row": 2, 
+      "col": 2
+    },
+    {
+      "piece": "Rook", 
+      "row": 2, 
+      "col": 3
     },
     {
       "piece": "Knight", 
       "row": 1, 
-      "col": 0,1,2,3
+      "col": 0
+    },
+    {
+      "piece": "Knight", 
+      "row": 1, 
+      "col": 1
+    },
+    {
+      "piece": "Knight", 
+      "row": 1, 
+      "col": 2
+    },
+    {
+      "piece": "Knight", 
+      "row": 1, 
+      "col": 3
     },
     {
       "piece": "Bishop", 
       "row": 0, 
-      "col": 0,1,2,3
+      "col": 0
+    },
+    {
+      "piece": "Bishop", 
+      "row": 0, 
+      "col": 1
+    },
+    {
+      "piece": "Bishop", 
+      "row": 0, 
+      "col": 2
+    },
+    {
+      "piece": "Bishop", 
+      "row": 0, 
+      "col": 3
     },
     {
       "piece": "Block", 
