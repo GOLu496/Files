@@ -1,18 +1,34 @@
 {
-  "A1": "rook",
-  "A2": "block",
-  "A3": "bishop",
-  "A4": "knight",
-  "B1": "block",
-  "B2": "knight",
-  "B3": "rook",
-  "B4": "block",
-  "C1": "king",
-  "C2": "rook",
-  "C3": "star",
-  "C4": "bishop",
-  "D1": "block",
-  "D2": "star",
-  "D3": "block",
-  "D4": "bishop"
+  "pieces": [
+    {
+      "piece": "King", 
+      "row": 3, 
+      "col": 1
+    },
+    {
+      "piece": "Star", 
+      "row": 0, 
+      "col": 1
+    },
+    {
+      "piece": "Rook", 
+      "row": 0, 
+      "col": 0
+    },
+    {
+      "piece": "Knight", 
+      "row": 0, 
+      "col": 2
+    },
+    {
+      "piece": "Bishop", 
+      "row": 1, 
+      "col": 3
+    },
+    {
+      "piece": "Block", 
+      "row": 2, 
+      "col": 1
+    }
+  ]
 }
