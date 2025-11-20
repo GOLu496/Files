@@ -16,14 +16,19 @@
       "col": 0
     },
     {
+      "piece": "Rook", 
+      "row": 2, 
+      "col": 1,2,3
+    },
+    {
       "piece": "Knight", 
       "row": 1, 
-      "col": 2
+      "col": 0,1,2,3
     },
     {
       "piece": "Bishop", 
       "row": 0, 
-      "col": 3
+      "col": 0,1,2,3
     },
     {
       "piece": "Block", 
