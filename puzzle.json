@@ -3,52 +3,22 @@
     {
       "piece": "King", 
       "row": 3, 
-      "col": 3
+      "col": 1
     },
     {
       "piece": "Star", 
-      "row": 3,
-      "col": 0
-    },
-    {
-      "piece": "Rook", 
-      "row": 2, 
+      "row": 0, 
       "col": 1
     },
     {
       "piece": "Rook", 
-      "row": 2, 
-      "col": 2
-    },
-    {
-      "piece": "Rook", 
-      "row": 2, 
-      "col": 2
-    },
-    {
-      "piece": "Rook", 
-      "row": 2, 
+      "row": 0, 
       "col": 0
     },
     {
       "piece": "Knight", 
-      "row": 1, 
-      "col": 0
-    },
-    {
-      "piece": "Knight", 
-      "row": 1, 
-      "col": 1
-    },
-    {
-      "piece": "Knight", 
-      "row": 1, 
+      "row": 0, 
       "col": 2
-    },
-    {
-      "piece": "Knight", 
-      "row": 1, 
-      "col": 3
     },
     {
       "piece": "Bishop", 
@@ -56,28 +26,8 @@
       "col": 3
     },
     {
-      "piece": "Bishop", 
-      "row": 1, 
-      "col": 0
-    },
-    {
-      "piece": "Bishop", 
-      "row": 1, 
-      "col": 1
-    },
-    {
-      "piece": "Bishop", 
-      "row": 1, 
-      "col": 2
-    },
-    {
       "piece": "Block", 
-      "row": 3, 
-      "col": 2
-    }
-    {
-      "piece": "Block", 
-      "row": 3, 
+      "row": 2, 
       "col": 1
     }
   ]
